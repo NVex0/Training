@@ -48,4 +48,4 @@ with open(r"D:\TEST\pic4.png", "wb") as p:
 
 Sau khi chạy code được 4 ảnh con King trong bộ bài, nó chứa flag luôn.
 
-FLAG: HACKLABS{You'v3_got_to_know_wh3n_to_hold'3m_6bb24d9c}
+FLAG: `HACKLABS{You'v3_got_to_know_wh3n_to_hold'3m_6bb24d9c}`
