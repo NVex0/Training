@@ -11,4 +11,5 @@ with open(r"D:\ZZTask\nonrev.bmp", "w") as f:
         else:
             out += data[index]
             index += 1
-        f.write(out)```
+        f.write(out)
+```
