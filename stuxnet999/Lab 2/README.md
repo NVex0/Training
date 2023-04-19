@@ -9,9 +9,7 @@ sample Lab 0, check biến môi trường bằng plugin `envars` và bú flag đ
 
 Để ý mỗi proc, NEW_TMP đều có phần path như này: *C:\Windows\ZmxhZ3t3M2xjMG0zX1QwXyRUNGczXyFfT2ZfTDRCXzJ9*
 
-B64decode directory đích ra, ăn flag 1 :) :
-
-Flag 1: `flag{w3lc0m3_T0_$T4g3_!_Of_L4B_2}`
+B64decode directory đích ra, ăn flag 1 :) : `flag{w3lc0m3_T0_$T4g3_!_Of_L4B_2}`
 
 #### Flag 2:
 
@@ -37,7 +35,7 @@ Lần mò vào thùng rác thấy có username tên Flag, edit Entry và có fla
 
 ![image](https://user-images.githubusercontent.com/113530029/232979300-d1649bec-f657-4cde-861a-b3f8697f9a70.png)
 
-Flag 2: `flag{w0w_th1s_1s_Th3_SeC0nD_ST4g3_!!}`
+-> `flag{w0w_th1s_1s_Th3_SeC0nD_ST4g3_!!}`
 
 
 #### Flag 3:
@@ -64,6 +62,6 @@ Rồi, SHA1 hash cái flag 3 của lab 1 là đc pass, mở ra và bú flag 3:
 
 ![image](https://user-images.githubusercontent.com/113530029/232980098-57d07f9a-6e4f-4945-8b6c-8cc97bdbf8ef.png)
 
-Flag 3: `flag{oK_So_Now_St4g3_3_is_DoNE!!}`
+-> `flag{oK_So_Now_St4g3_3_is_DoNE!!}`
 
 ++ Clear lab 2.
