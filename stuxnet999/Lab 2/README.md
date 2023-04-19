@@ -66,4 +66,4 @@ Rồi, SHA1 hash cái flag 3 của lab 1 là đc pass, mở ra và bú flag 3:
 
 Flag 3: `flag{oK_So_Now_St4g3_3_is_DoNE!!}`
 
-++Clear lab 2.
+++ Clear lab 2.
